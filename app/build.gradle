@@ -26,8 +26,8 @@ android {
         applicationId "com.fuck.iab"
         minSdk 26
         targetSdk 37
-        versionCode 40
-        versionName "1.6.6"
+        versionCode 41
+        versionName "1.6.7"
 
         // An empty value means this build has no store, which the Scripts screen says
         // instead of offering an update that cannot work.
