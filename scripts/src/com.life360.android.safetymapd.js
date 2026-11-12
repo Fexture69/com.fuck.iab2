@@ -1,3 +1,4 @@
+// author: Fexture69
 // Life360 Premium Unlock - FKIAB Compatible (lite)
 console.log("[*] Life360 Premium Unlock loading...");
 
